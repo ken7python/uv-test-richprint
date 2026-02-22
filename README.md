@@ -3,7 +3,7 @@
 ### uv学習ログ
 
 #### インストール
-``curl -LsSf https://astral.sh/uv/install.sh | sh`
+`curl -LsSf https://astral.sh/uv/install.sh | sh`
 
 #### プロジェクト作成・依存関係管理
 ```
